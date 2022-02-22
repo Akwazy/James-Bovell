@@ -1,1 +1,10 @@
 # James-Bovell
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
